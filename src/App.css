@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+/* .main_container{
+  background-color: red;
+  display:flex;
+  align-items: center;
+
+} */
 
 .App-logo {
   height: 40vmin;
